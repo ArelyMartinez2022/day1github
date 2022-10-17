@@ -1,0 +1,15 @@
+/Users/arelymartinez/Desktop/level1 /week1/day1github/bin/Debug/net6.0/day1github
+/Users/arelymartinez/Desktop/level1 /week1/day1github/bin/Debug/net6.0/day1github.deps.json
+/Users/arelymartinez/Desktop/level1 /week1/day1github/bin/Debug/net6.0/day1github.runtimeconfig.json
+/Users/arelymartinez/Desktop/level1 /week1/day1github/bin/Debug/net6.0/day1github.dll
+/Users/arelymartinez/Desktop/level1 /week1/day1github/bin/Debug/net6.0/day1github.pdb
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.dll
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/refint/day1github.dll
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.pdb
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/day1github.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/level1 /week1/day1github/obj/Debug/net6.0/ref/day1github.dll
